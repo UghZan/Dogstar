@@ -5,4 +5,4 @@
 
 ![some screenshots](https://raw.githubusercontent.com/UghZan/Dogstar/main/Screenshots/Build%20Screenshot%202022.04.08%20-%2000.54.10.65.png)
 ![some screenshots](https://raw.githubusercontent.com/UghZan/Dogstar/main/Screenshots/Build%20Screenshot%202022.04.08%20-%2000.56.05.93.png)
-![some screenshots](https://raw.githubusercontent.com/UghZan/Dogstar/main/Screenshots/Build%20Screenshot%202022.04.08%20-%2000.59.32.55.pngA)
+![some screenshots](https://raw.githubusercontent.com/UghZan/Dogstar/main/Screenshots/Build%20Screenshot%202022.04.08%20-%2000.59.32.55.png)
