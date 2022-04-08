@@ -1,5 +1,5 @@
 # Dogstar
- Half-finished cosmosim with a few things to do, made in ~2-3 weeks. Uses floating origin technique to handle huge distances, UI is integrated in game, has a basic resource management system and trading.
+ Half-finished cosmosim with a few things to do, made in ~2-3 weeks. Uses floating origin technique to handle huge distances, UI is integrated in-game, has a basic resource management system and trading. More or less realistic controls, too (no "space motor boats") 
  
  Codebase is slightly better than previous ones. However, it was this wonderful gamedev period where you can't objectively rate your skills so you bite more than you can chew. Still, this remains as one of my favorite projects.
 
