@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cc2ae36fa8fe4478a68b895560c8a2, type: 3}
+  m_Name: 20_Plating
+  m_EditorClassIdentifier: 
+  ID: 20
+  item_sprite: {fileID: -2642393358525368334, guid: b820ff36d5ba8fd43bc4c53027a220e4,
+    type: 3}
+  item_name: Metal Plating
+  item_desc: Nowadays it's being replaced by all kinds of nanofibers and ceramic
+    alloys, but the process is slow...
+  item_weight: 2.2
+  item_base_price: 250
+  item_rarity: 4
+  item_appearInTrade: 1
+  item_basePriceJump: 0.22

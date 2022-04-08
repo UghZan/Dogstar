@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cc2ae36fa8fe4478a68b895560c8a2, type: 3}
+  m_Name: 8_Petrophagite
+  m_EditorClassIdentifier: 
+  ID: 8
+  item_sprite: {fileID: -1370661682523340017, guid: b820ff36d5ba8fd43bc4c53027a220e4,
+    type: 3}
+  item_name: Petrophagite
+  item_desc: 'A really weird silicon-based organism. Doesn''t need air, water or
+    cheap entertainment - only void rocks. Considering it''s specific habitat and
+    remarkable diet preferences, it is a great interest to scientists of Canis Major. '
+  item_weight: 1.2
+  item_base_price: 1500
+  item_rarity: 5
+  item_appearInTrade: 1
+  item_basePriceJump: 0.29

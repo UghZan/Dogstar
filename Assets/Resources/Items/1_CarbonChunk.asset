@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cc2ae36fa8fe4478a68b895560c8a2, type: 3}
+  m_Name: 1_CarbonChunk
+  m_EditorClassIdentifier: 
+  ID: 1
+  item_sprite: {fileID: 8020143640844766479, guid: b820ff36d5ba8fd43bc4c53027a220e4,
+    type: 3}
+  item_name: Carbon Chunk
+  item_desc: A formation not much different from coal. It's irradiated with dark
+    matter, making it much more potent fuel than it's normal counterpart.
+  item_weight: 0.5
+  item_base_price: 100
+  item_rarity: 1
+  item_appearInTrade: 1
+  item_basePriceJump: 0.15
